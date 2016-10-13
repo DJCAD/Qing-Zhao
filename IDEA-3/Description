@@ -1,0 +1,5 @@
+/* 
+This is a smart pin with rgbLED embedded in it. You can set the deadline of your to-do list with it, it fades from blue to red gradually 
+in different color with time flying. When the deadline is approaching, it turns to red which means it's urgent to do.
+It helps you visualize the order of the things to do, put the priority of the most urgent task.
+*/
